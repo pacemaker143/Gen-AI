@@ -1,0 +1,7 @@
+{
+    "total_states": 107,
+    "total_transitions": 107,
+    "avg_transitions_per_state": 1.0,
+    "max_transitions": 1,
+    "min_transitions": 1
+}

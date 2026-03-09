@@ -1,0 +1,9 @@
+Metric,Value
+training_time,0.20157957077026367
+bic,3988.20455361438
+aic,3916.556215941203
+log_likelihood,-1941.2781079706015
+silhouette_score,0.8437565906781406
+davies_bouldin_score,0.22152502252185613
+n_iterations,2
+converged,True

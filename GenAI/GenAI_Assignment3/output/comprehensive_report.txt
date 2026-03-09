@@ -1,0 +1,54 @@
+======================================================================
+MACHINE LEARNING & NLP ASSIGNMENT - COMPREHENSIVE REPORT
+======================================================================
+
+1. GAUSSIAN MIXTURE MODEL RESULTS
+----------------------------------------------------------------------
+training_time: 0.20157957077026367
+bic: 3988.20455361438
+aic: 3916.556215941203
+log_likelihood: -1941.2781079706015
+silhouette_score: 0.8437565906781406
+davies_bouldin_score: 0.22152502252185613
+n_iterations: 2
+converged: True
+
+2. MARKOV CHAIN STATISTICS
+----------------------------------------------------------------------
+total_states: 107
+total_transitions: 107
+avg_transitions_per_state: 1.0
+max_transitions: 1
+min_transitions: 1
+
+3. PROMPT ENGINEERING COMPARISON
+----------------------------------------------------------------------
+
+INTERVIEW:
+  Approach: Interview
+  Prompt Length: 410
+  Response Length: 343
+
+COT:
+  Approach: Chain of Thought
+  Prompt Length: 401
+  Response Length: 384
+
+TOT:
+  Approach: Tree of Thought
+  Prompt Length: 452
+  Response Length: 435
+
+ZERO_SHOT:
+  Approach: Zero-shot
+  Prompt Length: 183
+  Response Length: 114
+
+FEW_SHOT:
+  Approach: Few-shot
+  Prompt Length: 455
+  Response Length: 114
+
+======================================================================
+Report generated: 2026-02-05 15:00:33.823377
+======================================================================

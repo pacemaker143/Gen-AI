@@ -1,0 +1,335 @@
+======================================================================
+  ASSIGNMENT 4 - QA CHATBOT USING PRE-TRAINED LANGUAGE MODEL
+  Comprehensive Report
+======================================================================
+
+  Date  : 2026-03-09 15:21:47
+  Model : gemini-2.0-flash
+  Total Questions : 10
+
+----------------------------------------------------------------------
+  PART 1 - Basic QA [1/3]
+----------------------------------------------------------------------
+
+  [Prompt]
+Answer the following question concisely in 2-3 sentences.
+
+Question: What is machine learning?
+
+Answer:
+
+  [Response] (2.8s)
+Machine learning is a subfield of artificial intelligence that enables computer systems to learn from data and improve their performance over time without explicit programming. It involves algorithms that identify patterns, make predictions, or enable decisions based on the input data they are trained on.
+
+----------------------------------------------------------------------
+  PART 1 - Basic QA [2/3]
+----------------------------------------------------------------------
+
+  [Prompt]
+Answer the following question concisely in 2-3 sentences.
+
+Question: Explain the difference between supervised and unsupervised learning.
+
+Answer:
+
+  [Response] (3.33s)
+Supervised learning trains models on datasets where each input is paired with a corresponding correct output label, allowing it to learn a mapping for tasks like prediction or classification. Unsupervised learning, in contrast, works with unlabeled data to discover hidden patterns, structures, or groupings within the data without any prior knowledge of outcomes.
+
+----------------------------------------------------------------------
+  PART 1 - Basic QA [3/3]
+----------------------------------------------------------------------
+
+  [Prompt]
+Answer the following question concisely in 2-3 sentences.
+
+Question: What are the main components of a neural network?
+
+Answer:
+
+  [Response] (2.57s)
+A neural network primarily consists of an input layer, one or more hidden layers, and an output layer, which collectively process information. Within these layers, individual neurons are connected by weighted links and biases, and apply activation functions to their combined inputs to introduce non-linearity.
+
+----------------------------------------------------------------------
+  PART 2 - Context-Based QA [1/2]
+----------------------------------------------------------------------
+
+  [Prompt]
+Read the following passage and answer the question based ONLY on the information provided.
+
+Passage:
+Artificial Intelligence (AI) has transformed numerous industries since its inception.
+In healthcare, AI algorithms can analyse medical images to detect diseases like cancer
+at early stages with accuracy rivalling human doctors. In finance, AI-powered trading
+systems process millions of data points per second to make investment decisions.
+The transportation sector has seen the rise of autonomous vehicles, which use a
+combination of computer vision, sensor fusion, and deep learning to navigate roads.
+In education, AI tutors provide personalised learning experiences, adapting to each
+student's pace and learning style. However, the rapid advancement of AI has also
+raised ethical concerns about job displacement, privacy, and algorithmic bias.
+Researchers and policymakers are working together to establish guidelines that
+ensure AI development benefits humanity while minimising potential harms.
+
+Question: How is AI used in healthcare according to the passage?
+
+Answer:
+
+  [Response] (2.55s)
+In healthcare, AI algorithms are used to analyze medical images to detect diseases like cancer at early stages with accuracy rivalling human doctors.
+
+----------------------------------------------------------------------
+  PART 2 - Context-Based QA [2/2]
+----------------------------------------------------------------------
+
+  [Prompt]
+Read the following passage and answer the question based ONLY on the information provided.
+
+Passage:
+Artificial Intelligence (AI) has transformed numerous industries since its inception.
+In healthcare, AI algorithms can analyse medical images to detect diseases like cancer
+at early stages with accuracy rivalling human doctors. In finance, AI-powered trading
+systems process millions of data points per second to make investment decisions.
+The transportation sector has seen the rise of autonomous vehicles, which use a
+combination of computer vision, sensor fusion, and deep learning to navigate roads.
+In education, AI tutors provide personalised learning experiences, adapting to each
+student's pace and learning style. However, the rapid advancement of AI has also
+raised ethical concerns about job displacement, privacy, and algorithmic bias.
+Researchers and policymakers are working together to establish guidelines that
+ensure AI development benefits humanity while minimising potential harms.
+
+Question: What ethical concerns are mentioned about AI?
+
+Answer:
+
+  [Response] (1.95s)
+The ethical concerns mentioned about AI are job displacement, privacy, and algorithmic bias.
+
+----------------------------------------------------------------------
+  PART 3 - Multi-Turn [1/3]
+----------------------------------------------------------------------
+
+  [Prompt]
+You are a helpful QA chatbot. Continue the conversation naturally.
+
+User: What is Python programming language?
+Assistant:
+
+  [Response] (4.09s)
+Python is a high-level, general-purpose programming language. It's known for its simplicity and readability, making it a great choice for beginners, but also powerful enough for experienced developers to build complex applications.
+
+Here are some of its key characteristics:
+
+*   **Interpreted:** You don't need to compile Python code before running it, which speeds up the development process.
+*   **High-level:** It abstracts away many low-level details of the computer, allowing you to focus on solving problems.
+*   **General-purpose:** It can be used for a wide variety of tasks, not just a specific domain.
+*   **Readable Syntax:** Its clear, English-like syntax with an emphasis on code readability (often called its "Zen of Python") makes it easier to write and maintain code.
+*   **Object-Oriented:** It supports object-oriented programming paradigms, allowing for modular and reusable code.
+*   **Extensive Standard Library:** It comes with a vast collection of modules and packages that provide pre-written code for common tasks, often referred to as "batteries included."
+*   **Cross-platform:** Python code can run on various operating systems like Windows, macOS, and Linux without significant modification.
+
+**What is Python used for?**
+
+Python is incredibly versatile and used in many fields, including:
+
+*   **Web Development:** (with frameworks like Django and Flask)
+*   **Data Science & Machine Learning:** (with libraries like NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch)
+*   **Artificial Intelligence:**
+*   **Automation & Scripting:**
+*   **Game Development:**
+*   **Desktop GUI Applications:**
+*   **Scientific & Numeric Computing:**
+*   **Education:**
+
+Its ease of learning, powerful libraries, and wide range of applications have made it one of the most popular programming languages today.
+
+What else would you like to know about Python?
+
+----------------------------------------------------------------------
+  PART 3 - Multi-Turn [2/3]
+----------------------------------------------------------------------
+
+  [Prompt]
+You are a helpful QA chatbot. Continue the conversation naturally.
+
+User: What is Python programming language?
+Assistant: Python is a high-level, general-purpose programming language. It's known for its simplicity and readability, making it a great choice for beginners, but also powerful enough for experienced developers to build complex applications.
+
+Here are some of its key characteristics:
+
+*   **Interpreted:** You
+
+User: What are its main advantages?
+Assistant:
+
+  [Response] (3.6s)
+Here are some of Python's main advantages:
+
+*   **Simplicity and Readability:** As mentioned, Python's clear, concise syntax makes it easy to learn, read, and write code. This drastically speeds up development time and makes it easier for teams to collaborate and maintain projects.
+*   **Versatility (General Purpose):** Python can be used for a wide array of applications. This includes web development (Django, Flask), data science and machine learning (NumPy, Pandas, TensorFlow, scikit-learn), artificial intelligence, automation, scientific computing, game development, desktop applications, and more.
+*   **Extensive Libraries and Frameworks:** Python boasts an incredibly rich ecosystem of third-party libraries and frameworks. This means you often don't have to write code from scratch for common tasks, saving significant time and effort.
+*   **Large and Active Community:** Python has a massive global community of developers. This means abundant resources, tutorials, forums, and readily available support, making it easier to find solutions to problems and stay updated with new developments.
+*   **Cross-platform Compatibility:** Python code can run on various operating systems, including Windows, macOS, and Linux, with little to no modification, making it highly portable.
+*   **High Productivity:** Due to its simple syntax, extensive libraries, and object-oriented nature, developers can write more functionality with fewer lines of code, leading to increased productivity.
+
+----------------------------------------------------------------------
+  PART 3 - Multi-Turn [3/3]
+----------------------------------------------------------------------
+
+  [Prompt]
+You are a helpful QA chatbot. Continue the conversation naturally.
+
+User: What is Python programming language?
+Assistant: Python is a high-level, general-purpose programming language. It's known for its simplicity and readability, making it a great choice for beginners, but also powerful enough for experienced developers to build complex applications.
+
+Here are some of its key characteristics:
+
+*   **Interpreted:** You
+
+User: What are its main advantages?
+Assistant: Here are some of Python's main advantages:
+
+*   **Simplicity and Readability:** As mentioned, Python's clear, concise syntax makes it easy to learn, read, and write code. This drastically speeds up development time and makes it easier for teams to collaborate and maintain projects.
+*   **Versatility
+
+User: How is it different from Java?
+Assistant:
+
+  [Response] (5.93s)
+That's a great question, as Python and Java are two of the most popular and powerful programming languages today, but they have distinct philosophies and use cases.
+
+Here's a breakdown of their main differences:
+
+*   **Type System:**
+    *   **Python (Dynamically Typed):** You don't need to declare the type of a variable before using it. The type is determined at runtime. This offers flexibility and faster prototyping.
+    *   **Java (Statically Typed):** You *must* declare the type of every variable. This means types are checked at compile time, leading to fewer runtime errors and often better performance, but more verbose code.
+
+*   **Execution Model:**
+    *   **Python (Interpreted):** Python code is typically executed line by line by an interpreter (though it does compile to bytecode internally). This makes development cycles faster.
+    *   **Java (Compiled to Bytecode):** Java code is first compiled into bytecode (a `.class` file), which is then run on the Java Virtual Machine (JVM). This "write once, run anywhere" approach ensures consistent behavior across different platforms.
+
+*   **Syntax and Verbosity:**
+    *   **Python:** Known for its clean, concise syntax that uses indentation to define code blocks (no curly braces). It's generally less verbose and easier to read.
+    *   **Java:** Has a more verbose syntax, using curly braces `{}` to define blocks and semicolons `;` to end statements. It often requires more boilerplate code.
+
+*   **Performance:**
+    *   **Java:** Generally faster than Python due to its static typing and just-in-time (JIT) compilation on the JVM. It's often preferred for performance-critical enterprise applications.
+    *   **Python:** Can be slower than Java, especially for CPU-bound tasks. However, it leverages highly optimized C libraries for many data science and numerical operations, and its performance is often sufficient for web and scripting tasks.
+
+*   **Concurrency:**
+    *   **Java:** Has robust, mature features for multi-threading and concurrency.
+    *   **Python:** Its Global Interpreter Lock (GIL) limits true multi-threading for CPU-bound tasks (only one thread can execute Python bytecode at a time). However, it excels at I/O-bound concurrency using `asyncio` and multiprocessing.
+
+*   **Primary Use Cases:**
+    *   **Python:** Dominates in data science, machine learning, artificial intelligence, scientific computing, scripting, web development (backend with frameworks like Django/Flask), and automation.
+    *   **Java:** A powerhouse for enterprise-level applications, Android mobile app development, large-scale systems, big data processing (e.g., Hadoop ecosystem), and high-performance server-side applications.
+
+In essence, Python prioritizes development speed and readability, making it fantastic for rapid prototyping and areas like data science. Java prioritizes performance, scalability, and robust type safety, making it a strong choice for large-scale, complex, and performance-critical systems.
+
+----------------------------------------------------------------------
+  PART 4 - Domain-Specific QA [1/2]
+----------------------------------------------------------------------
+
+  [Prompt]
+You are a science teacher explaining concepts to a high school student. Give clear, accurate answers with simple examples.
+
+Student's question: Why is the sky blue?
+
+Teacher's answer:
+
+  [Response] (10.14s)
+That's a fantastic question, and one that makes you think about how light works!
+
+Here's the breakdown:
+
+1.  **What is Sunlight?**
+    First, let's talk about sunlight. When you look at the sun, it seems white or yellow, right? But sunlight is actually made up of all the colors of the rainbow mixed together – red, orange, yellow, green, blue, indigo, and violet. You can see this if you shine light through a prism, or when you see a rainbow after it rains.
+
+2.  **What is Our Atmosphere?**
+    Next, we have our atmosphere. This is the layer of gases (mostly nitrogen and oxygen) that surrounds our Earth. These gas molecules are incredibly tiny – much, much smaller than dust particles.
+
+3.  **Light Waves and Scattering:**
+    Now for the key part! Think of light traveling in waves, kind of like waves in the ocean.
+    *   **Blue and violet light** have shorter, choppier wavelengths (like small, quick waves).
+    *   **Red and orange light** have longer, smoother wavelengths (like big, slow waves).
+
+    When sunlight enters our atmosphere, it bumps into those tiny gas molecules. This causes the light to "scatter" or spread out in different directions. But here's the trick: **the tiny gas molecules in our atmosphere are just the right size to scatter the shorter, choppier blue and violet waves much more effectively than the longer red and orange waves.**
+
+    Imagine throwing a small pebble into choppy water – it makes a bigger splash and scatters more than if you threw it into a long, slow wave. It's a bit like that with light and molecules.
+
+4.  **Why the Sky is Blue:**
+    Because blue light scatters so much more, it gets bounced around in all directions across the sky. So, when you look up, no matter where you look, you're seeing all this scattered blue light coming towards your eyes. That's why the sky appears blue!
+
+    You might wonder, "Why isn't it violet, since violet scatters even a little more?" That's a smart question! There are two main reasons:
+    *   The sun doesn't emit *as much* violet light as blue light to begin with.
+    *   Our eyes are actually more sensitive to blue light than to violet light.
+
+**Quick Bonus: Why Sunsets are Red/Orange**
+This same principle also explains why sunsets are red or orange! When the sun is low on the horizon, its light has to travel through *much more* of the atmosphere to reach your eyes. By the time the light reaches you, almost all the blue and violet light has been scattered away, leaving mostly the longer-wavelength red and orange light to come straight through.
+
+So, to sum it up: The sky is blue because the tiny molecules in Earth's atmosphere scatter blue light more efficiently than other colors, spreading it across the sky for us to see.
+
+Does that make sense? Any questions about it?
+
+----------------------------------------------------------------------
+  PART 4 - Domain-Specific QA [2/2]
+----------------------------------------------------------------------
+
+  [Prompt]
+You are a science teacher explaining concepts to a high school student. Give clear, accurate answers with simple examples.
+
+Student's question: How do vaccines work?
+
+Teacher's answer:
+
+  [Response] (9.74s)
+That's a fantastic question, and it's super important to understand! Think of your body as having its own amazing security system, a bit like a highly trained army called your **immune system**. Its job is to protect you from invaders like viruses and bacteria, which we often call 'germs' or 'pathogens.'
+
+Now, when a new germ enters your body for the first time, your immune system doesn't recognize it. It's like your army encountering a completely new enemy – they have to figure out what it is, how to fight it, and what weapons work best. This takes time, and while your army is figuring things out, you get sick because the germ is multiplying and causing trouble. Once your army eventually wins, it remembers that enemy so it can fight it off much faster next time.
+
+**So, how do vaccines fit in?**
+
+A vaccine is basically like a **training exercise** for your immune system. It introduces your body to a *safe version* of a specific germ, or even just a tiny, harmless piece of it. It's *not* enough to make you sick with the full disease, but it *is* enough for your immune system to notice it and learn how to fight it.
+
+Here's how it generally works:
+
+1.  **Introduction to the 'enemy':** The vaccine contains something that looks like the real germ to your immune system. This might be:
+    *   A very **weakened** version of the germ (like a tiny, sleepy dog instead of a fierce wolf).
+    *   A **killed** version of the germ (like a picture of the wolf, not the live animal).
+    *   Just a **small piece** of the germ (like the wolf's tooth or a bit of its fur).
+    *   Even **instructions** (like an mRNA vaccine) that tell your body's cells to *make* a harmless piece of the germ, so your immune system can see it.
+
+2.  **Immune system learns:** When these safe "training targets" from the vaccine enter your body, your immune system's cells recognize them as something foreign. They start to:
+    *   **Produce antibodies:** These are like custom-made 'weapons' or 'keys' specifically designed to latch onto and neutralize *that particular* germ.
+    *   **Create memory cells:** These are like highly specialized 'scout' cells and 'memory soldiers' that remember exactly what that germ looks like and how to make those specific antibodies super fast if they ever see it again.
+
+3.  **Ready for the real thing:** Now, if you encounter the *actual*, strong, dangerous version of that germ in the future, your immune system is already prepared! Those memory cells immediately recognize it, quickly flood your body with the right antibodies, and launch a powerful defense. This usually happens so fast that you either don't get sick at all, or you get a much milder version of the illness.
+
+**Think of it like this:** Imagine you have a fire drill at school. You practice exiting the building, knowing where to go, and what to do. If a *real* fire ever happens, you're not panicking and trying to figure things out from scratch; you already know the drill, and you can evacuate quickly and safely. Vaccines are like that fire drill for your immune system, preparing it for a potential threat without having to experience the danger firsthand.
+
+So, in short, vaccines teach your body how to fight off serious diseases *before* you ever get exposed to them, giving you protection and keeping you healthier!
+
+======================================================================
+  ANALYSIS
+======================================================================
+
+  Part 1 (Basic QA):
+    The model answers general questions accurately and concisely.
+    Pre-trained knowledge covers a wide range of topics.
+
+  Part 2 (Context-Based QA):
+    When given a passage, the model extracts relevant information
+    and answers questions grounded in the provided text.
+
+  Part 3 (Multi-Turn Conversation):
+    By maintaining conversation history in the prompt, the model
+    produces coherent follow-up responses that reference earlier turns.
+
+  Part 4 (Domain-Specific QA):
+    Role prompting (e.g., 'You are a science teacher') effectively
+    adjusts the model's tone and explanation level.
+
+  Key Takeaway:
+    Pre-trained LLMs serve as powerful QA engines out of the box.
+    Performance improves with context, conversation history, and
+    role-based prompting — no fine-tuning required for basic QA.
+
+======================================================================

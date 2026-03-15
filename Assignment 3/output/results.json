@@ -1,0 +1,53 @@
+{
+  "before_finetuning": [
+    {
+      "prompt": "Once upon a time in a magical forest",
+      "generated_text": "Once upon a time in a magical forest, you gain the following benefits:\n. . Your health and vitality has decreased by 1 point every 10 minutes for 9 hours after being awakened; your natural armor class increases to +2 while still wearing no helmet or armour when awake from sleep (max 20); any amount of spells cast before waking up are instantly converted into negative hit points instead if they occur on that same day(s) within 6 feet.(If using an aura with its effect against undead creatures/non-magical constructs - add poison damage).You may use this feature once per long rest until satisfied."
+    },
+    {
+      "prompt": "The enchanted kingdom was ruled by",
+      "generated_text": "The enchanted kingdom was ruled by a single God, King of Beasts. It used the name Beast to describe its inhabitants and it built huge statues with their weapons made from wood called \"gods\", but this did not always make sense (as if they were just some beasts).\n\nIn truth these giants had been created in an attempt at making themselves more attractive because each one could be manipulated or trained under different orders: there are no humans left now even though many people worship them! The only other creature that has ever lived on Earth is Gorgon who's body resembles him very closely after he fell into despair when his creator came crashing down upon us.[3] His creation as Ivar spoke words which have already come out since Heimdall[4][5], what does such things mean? Well for instance we can read about how Goblins will look like before having physical bodies... In most cultures human beings would also start seeing monsters wearing armour instead; however being able change shape back"
+    },
+    {
+      "prompt": "A lonely robot wandered through",
+      "generated_text": "A lonely robot wandered through the city's streets, finding an unknown vendor who would buy and sell anything. With a single touch on his finger he made out with that customer…\n\n\"It is going to be expensive!\" That one had been waiting for him there before but this was now its first chance at life….and it felt like something could happen in another dimension of time! This thing seemed extremely curious so she quickly followed suit by giving her what looked exactly as if they were lovers meeting up somewhere other than here!!! She then walked towards them again!! It didn't hurt when someone caught their attention or called around…..but suddenly all thoughts about love started pouring from within these two beings?!"
+    },
+    {
+      "prompt": "Deep in the ancient library, a scholar found",
+      "generated_text": "Deep in the ancient library, a scholar found an inscription engraved with his name. The text was that of Zhen-kuyu; though its meaning is uncertain for some scholars it must have been written by someone from one source or another and may not be completely understood within this context...\nThe word \"Zhe\" means place where there are people: 'the dead' ... We see these words all over China on many occasions as if they were part formulae to their sacred texts -- so we might expect them at least once somewhere along history when Chinese religion came about.\" This translation marks almost certainly Huanpeng's earliest work upon which he based more than half his research focus (and probably most others too). But I can't say much since my eyes don´t even begin shooting after seeing Zhang Kuei carefully scribbling down any scriptural passages (\"Aahaha!\") but rather just staring into space--as you would imagine reading up close like him during your time"
+    },
+    {
+      "prompt": "The last dragon on earth",
+      "generated_text": "The last dragon on earth (except the one in which it belongs) never made an appearance. The two other dragons have been defeated, but both were completely forgotten.\"\n\"It's not a real world thing!\" Harry protested to himself as he took his wand and removed its clasp from under him by pulling out at every bit of wood that was present within reach. \"No people will be able – or willing–to see this! People who are allowed into Hogwarts without permission can't come for years after school with broomsticks when they've already won their exams…\" He had only glanced over where Malfoy stood before throwing away all evidence against them so far; no such luck here either…\n\n...He'd taken too long looking around though since then.. Well you're right about being very unlucky if your parents don´t like seeing something else than themselves during class time…. They did say there would be lots more trouble later down those road trips afterwards now could possibly cause 'sickness'. But I"
+    }
+  ],
+  "after_finetuning": [
+    {
+      "prompt": "Once upon a time in a magical forest",
+      "generated_text": "Once upon a time in a magical forest, there lived the spirit of nature. It was revered as one of its master and loved all things sacred to itself. On earth were always happy places for flowers; on birdsong slopes sat their soaring heads—a perfect paradise from which blossomed an entire kingdom that looked far beyond! There came wisdom with those who had dreamed about life's mysteries: knowledge without fear did not exist among sorcerers or wizards.\"\nThe world weathered it until these two kingdoms saw each other once again when they struck up fierce battles between three different mages during ancient timescales before vanishing into silence forevermore by chance attacks made outfitted within trees' twining leaves…\n\n The warring giants themselves battled amongst fire-and ice creatures battling against darkness like neverbefore –until finally something caught them off guard while seeking refuge under sea water (or deep beneath land) where dragons swooped above old forests just past midnight every night . Each hero became king through battle but quickly learned"
+    },
+    {
+      "prompt": "The enchanted kingdom was ruled by",
+      "generated_text": "The enchanted kingdom was ruled by dragons, and the land grew lush with wonders. The dragon women loved to eat them alive in her womb; after she learned that a woman who lived through wars would never be worthy of an inheritance from among mortals—she taught young men how best not only protect themselves from evil spirits on their enemies, but also bring peace around foes as well!\n: A tale about two old heroes fighting each other for survival against monstrous monsters while navigating treacherous streets filled across Europe's countryside. And now you must conquer all obstacles faced behind your home-country walls – whether they're just plain ol' trash people throw at…or what life brings back when it turns into magic where every moment is pure pleasure instead of suffering or death …"
+    },
+    {
+      "prompt": "A lonely robot wandered through",
+      "generated_text": "A lonely robot wandered through the forest and her mother was a living woman. Then she met an old man who thought there would be only one girl with whom he could call his own father, but when it turned out that no such love came to this world until now: children were born on their knees in trees for all eternity—that is how life began\n\"I had always been kind of lost at sea,\" said Mary Kaye after hearing about two young men's birthdays; \"they're having so much fun.\" But they must have found something more profound than these dreams come true —and soon some brave little boy named John moved into each room like new-born friends from another planet without any regrets or guilt over what happened last time alone as long ago..."
+    },
+    {
+      "prompt": "Deep in the ancient library, a scholar found",
+      "generated_text": "Deep in the ancient library, a scholar found books about sacred women. The texts described how to cultivate fertility and health by weaving them into beautiful garments made of wool so that they would walk through their gardens — one day carrying baskets filled with flowers like leaves blooming together on top as if alive; next she read poetry inspired only when it was right for her family's needs: \"This life has its pleasures alone.\"\n-A collection from Elizabeth Grey whose tales were often shared among poets around the world"
+    },
+    {
+      "prompt": "The last dragon on earth",
+      "generated_text": "The last dragon on earth, he was slain by the Great King's enemies who hated him and sought to destroy his realm. The beast went free through an endless land of chaos until it came upon a city where its inhabitants thrived in peace with one another. In that new reality there were no dragons left but themselves—a culture full outgrown from centuries ago when magic first developed for humankind.\n\"You see,\" said Pryn as she walked up behind her daughter Dora; \"I'm not sure how you feel about this place.\"\n\n... It wasn't long before I noticed something strange… Something had taken hold inside my mind after all these years. When friends started making fun of me they'd become so fondly attached towards their parents' memories (and loved stories). A childhood friend told them children would go away forever if we weren(ed) happy or healthy enough together! There seemed nothing wrong doing anything else because our lives depended on each other rather than ourselves. That friendship never"
+    }
+  ],
+  "config": {
+    "model": "gpt2",
+    "epochs": 5,
+    "learning_rate": 5e-05,
+    "block_size": 128,
+    "device": "cpu"
+  }
+}

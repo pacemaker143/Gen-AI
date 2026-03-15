@@ -1,0 +1,8 @@
+*.env
+__pycache__/
+*.safetensors
+*.pt
+*.pth
+*.bin
+checkpoint-*/
+fine_tuned_model/
